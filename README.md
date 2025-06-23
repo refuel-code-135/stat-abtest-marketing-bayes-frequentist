@@ -4,6 +4,9 @@
 This project performs an A/B test analysis on a marketing dataset using both **Bayesian** and **Frequentist** hypothesis testing methods.
 It includes data preprocessing, exploratory data analysis (EDA), and statistical testing to evaluate the effectiveness of ad exposure.
 
+## Notebook
+https://github.com/refuel-code-135/stat-abtest-marketing-bayes-frequentist/blob/main/notebooks/abtest.ipynb
+
 ## Dataset
 
 The dataset used in this project can be downloaded from Kaggle:
@@ -23,6 +26,6 @@ conda activate $CONDA_ENV
 # Install required Python packages
 pip install -r requirements.txt
 
-# Start notetebook
+# Start notebook
 jupyter lab
 ```
