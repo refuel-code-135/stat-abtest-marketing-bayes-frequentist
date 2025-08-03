@@ -20,7 +20,7 @@ After downloading, please place the file marketing_AB.csv in the data/ directory
 export CONDA_ENV=marketing-abtest
 
 # Create and activate a new conda environment
-conda create -n $CONDA_ENV python=3.10
+conda create -n $CONDA_ENV python=3.12
 conda activate $CONDA_ENV
 
 # Install required Python packages
